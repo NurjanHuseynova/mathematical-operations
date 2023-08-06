@@ -1,0 +1,27 @@
+.calc{
+    display: flex;
+    background: #eeecef;
+    width: 53%;
+    padding: 50px; 
+    border: 1px solid #b5b1b1;
+    border-radius: 20px;
+
+    margin-top: 50px;
+    justify-content: center;
+}
+#countdown{
+    text-align: center;
+    font-size: 1.5rem;
+    border: 2px solid black;
+    border-radius: 64%;
+    width: 5%;
+    height: 70px;
+    line-height: 70px;
+
+    margin: 46px 47%;
+}
+.tableCalc{
+    width: 50%;
+    margin-top: 26px;
+    text-align: center;
+}
